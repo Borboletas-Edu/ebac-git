@@ -1,1 +1,1 @@
-# ebac-git
+# aula-git-ebac
